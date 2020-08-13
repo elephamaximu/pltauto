@@ -1,0 +1,6 @@
+mgmt_ip: 10.1.1.33
+vlans:
+  red:
+    id: 20
+  green:
+    id: 30
